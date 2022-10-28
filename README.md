@@ -84,7 +84,7 @@ The console is a Unix shell-like command line user interface provided by the pyt
   </div>
   </div>
   <div>All the code is tested with the unittest module. The test for the classes are in the test_models folder.</div>
-  <p>Some Command Examples
+  <p>Some Command Examples</p>
   <div>The commands are displayed in the following format Command / usage / example with output
 Create
 	Creates a new instance of a given class. The class' ID is printed and the instance is saved to the file file.json.
@@ -94,13 +94,6 @@ Create
 	(hbnb) create BaseModel
 	6cfb47c4-a434-4da7-ac03-2122624c3762
 	(hbnb)
-
-Show
-	show <class> <id>
-	(hbnb) show BaseModel 6cfb47c4-a434-4da7-ac03-2122624c3762
-	[BaseModel] (a) [BaseModel] (6cfb47c4-a434-4da7-ac03-2122624c3762) {'id': '6cfb47c4-a434-4da7-ac03-2122624c3762', 'created_at': datetime.datetime(2021, 11, 14, 3, 28, 45, 571360), 'updated_at': datetime.datetime(2021, 11, 14, 3, 28, 45, 571389)}
-(hbnb)
   </div>
-  </p>
 </body>
 </html>
